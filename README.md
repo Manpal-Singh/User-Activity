@@ -19,6 +19,12 @@ Requirements
 * ``CSS3``
 * ``Java Script``
 
+Run Project
+------------------------------
+* ``git clone https://github.com/Manpal-Singh/user-activity.git``
+* ``run node mock-api.js inside root path``
+* ``run npm start inside root path``
+
 
 Preview
 ------------------------------
