@@ -1,22 +1,43 @@
-# user-activity
+User-Activity
+------------------------------
 It is an assignment given by FullThrottle Labs for searching user activity(Online/Offline) on particular date using Reactjs
 
-# fullthrottleassignment
+Features
+------------------------------
+* User can select person by clicking on `Person Name`.
+* User can search person activity on selected date from calender by chossing date from `Calender`.
+* User can also view between what time Person was active/online on selected date.
 
-### Available Scripts
-In the project directory, you can run:
+Requirements
+------------------------------
 
-npm start
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser.
+* ``Reactjs``
+* ``Es6``
+* ``NPM``
+* ``connect-api-mocker``
+* ``Node``
+* ``CSS3``
+* ``Java Script``
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
 
-### In the root directory run the below command to run mock server
-node mock-api.js
+Preview
+------------------------------
 
-### about project
-1- In homepage there is a list of all available users 2- on clicking on any user it opens a modal that show activity time of clicked users. 3- there is a calender option from which we can select any previous date from the current day to check users activity on selected date.
+**Home View showing list of all Person**
+
+![Home Page](https://imgur.com/VSRsdH2.jpg)
+
+**Search Person Activity on selected date from calender**
+
+![Search User Activity](https://imgur.com/qtoOXaN.jpg)
+
+**Person-online-status-example1**
+
+![User-online-status-example1](https://imgur.com/Q7wqDnl.jpg)
+
+**Person-online-status-example2**
+
+![User-online-status-example2](https://imgur.com/mUY9HJI.jpg)
+
 
 
